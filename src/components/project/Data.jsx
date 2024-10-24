@@ -1,4 +1,3 @@
-
 import Image1 from "../../assets/project1.png"
 import Image2 from "../../assets/project2.png"
 import Image3 from "../../assets/project3.png"

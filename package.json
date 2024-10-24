@@ -1,5 +1,5 @@
 {
-  "homepage": "http://moru628.github.io/Profile",
+  "homepage": "http://moru628.github.io/profile-1",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
