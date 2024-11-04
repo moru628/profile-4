@@ -13,7 +13,7 @@ const Social = () => {
             <button href="#" className="home_social-icon" target="_blank">
                 <i class="uil uil-smile-beam"></i>
             </button>
-            <a href="https://github.com/moru628/todo-app" className="home_social-icon" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/moru628/plandi" className="home_social-icon" target="_blank" rel="noopener noreferrer">
                 <i class="uil uil-github"></i>
             </a>
         </div>

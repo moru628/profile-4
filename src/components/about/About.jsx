@@ -13,7 +13,7 @@ const About = () => {
             <div className="about_data">
                 <Info />
                 <p className="about_description">
-                    I am a graduated student of Trinity College Dublin with strong passion on UI/UX design. I've worked on many group projects during my studing. I always rely on surveys to understand the user requirements and translate them into effective web and mobile interface designs. I am a quick learner and outgoing communicator, focused on creating impactful designs that meet user's needs.
+                    I am a graduated student of Trinity College Dublin with strong passion on Web development. I've worked on many group projects during my studing. With a solid foundation in front-end and back-end technologies, I continuously enhance my skills and keep updating with the latest industry trends. I am a quick learner and outgoing communicator, focused on creating impactful application that meet user's needs.
                 </p>
 
                 <div className="about_button_container">

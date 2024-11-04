@@ -12,7 +12,7 @@ const info = () => {
         <div className="about_box">
             <i class='bx bx-briefcase-alt about_icon'></i>
             <h3 className="about_title">Project</h3>
-            <span className="about_subtitle">Restaurant app</span>
+            <span className="about_subtitle">TodoApp</span>
         </div>
 
         <div className="about_box">

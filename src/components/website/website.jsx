@@ -11,7 +11,7 @@ const Website = () => {
     <section className="project container section" id='website'>
         <h2 className="section_title">Todoapp</h2>
         <span className="section_subtitle">Website: <a 
-        href='https://todoapp-z7d8.onrender.com'>https://todoapp-z7d8.onrender.com</a></span>
+        href='https://todoapp-z7d8.onrender.com'>https://plandi.onrender.com</a></span>
 
         <Swiper className="project_container"
             loop={true}
